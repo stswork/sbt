@@ -1,0 +1,1 @@
+module.exports = [{"isApi":true,"priority":1101.0001,"key":"Window","style":{top:Alloy.Globals.windowTop,width:Ti.UI.FILL,navBarHidden:true,}},{"isClass":true,"priority":10000.0002,"key":"container","style":{backgroundColor:"#fff",}}];

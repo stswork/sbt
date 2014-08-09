@@ -1,0 +1,5 @@
+"Window[platform=android]": {
+    top: Alloy.Globals.windowTop,
+    width : Ti.UI.FILL,
+    navBarHidden: true
+}

@@ -1,0 +1,13 @@
+<Alloy>
+	<Window class="container" id="win">
+		<View layout="vertical">
+		<Label id="longitude" height="50dp" width="70%" top="20dp"></Label>
+		<Label id="latitude" height="50dp" width="70%" top="20dp"></Label>
+		<Label id="day" height="50dp" width="70%" top="20dp"></Label>
+		<Label id="month" height="50dp" width="70%" top="20dp"></Label>
+		<Label id="year" height="50dp" width="70%" top="20dp"></Label>
+		<Label id="hours" height="50dp" width="70%" top="20dp"></Label>
+		<Label id="minutes" height="50dp" width="70%" top="20dp"></Label>
+		</View>
+	</Window>
+</Alloy>

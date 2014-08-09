@@ -1,0 +1,50 @@
+
+".container" : {
+	backgroundImage:'/images/login/loginbg1.png',
+	height:"100%",
+	width:'100%'
+  
+},
+
+
+"TextField":{
+ borderWidth:"0dp",
+ 	font: {
+		fontFamily: "Helvetica Neue",
+		fontWeight: "normal",
+		fontSize: "16dp"
+	},
+	color: "#FFF",
+	width:'70%',
+	height:'50dp',
+	borderColor:"#FFF",
+ 
+	
+}
+
+"#username":{
+	value:'User Name'
+	
+},
+"#phone":{
+	value:'Phone Number',
+	keyboardType: Titanium.UI.KEYBOARD_DECIMAL_PAD,
+},
+"#companycode":{
+	value:'Company Code'
+	
+},
+"#signin":{
+	font: {
+		fontFamily: "Helvetica Neue",
+		fontWeight: "normal",
+		fontSize: "20dp"
+	},
+	color: "#FFF",
+	backgroundColor: "#00BA8B",
+	borderRadius: 3,
+	width:'70%',
+	height:'50dp',
+	title:"Sign In"
+}
+
