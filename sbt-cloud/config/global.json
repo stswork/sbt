@@ -1,0 +1,14 @@
+{
+    "applications": {
+        "Sales Boy Tracker": {
+            "applicationId": "O3zQqGoHN3vFLHnxftd2zzdUV3Rwu1KZ8fEclJ8n", 
+            "masterKey": "fwdGtSRoEOa07ZnHgsozoVm9kV0qzW4XqMhZZw3U"
+        }, 
+        "_default": {
+            "link": "Sales Boy Tracker"
+        }
+    }, 
+    "global": {
+        "parseVersion": "1.2.19"
+    }
+}
